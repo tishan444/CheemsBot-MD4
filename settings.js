@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['http://Wa.me/+94703262697'] //ur owner number
+global.vcardowner = ['94703262697'] //ur owner number
 global.ownername = "🦄Tishan Sasidu" //ur owner name
 global.ytname = "YT: not" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
@@ -63,7 +63,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['94740551067']
 global.ownertag = '94740551067' //ur tag number
-global.botname = 'Sasidu V9' //ur bot name
+global.botname = 'Sasidu official BOT' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
